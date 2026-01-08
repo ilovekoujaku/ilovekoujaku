@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**ilovekoujaku/ilovekoujaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"
 
-Here are some ideas to get you started:
+<br><sup><img src="https://komarev.com/ghpvc/?username=ilovekoujaku&color=000000">
+<br> 
+<br><img width="425" height="100" alt="Screenshot 2026-01-08 183207" src="https://github.com/user-attachments/assets/53d71def-1e19-4059-a3fc-cc281cc688ca" />
+<br>
+<br> <a href="https://www.last.fm/user/valfen"><img src="https://lastfm-recently-played.vercel.app/api?user=valfen&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=000000" alt="hai"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>
+
